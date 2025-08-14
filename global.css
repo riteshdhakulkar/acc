@@ -1,0 +1,16 @@
+#cards{
+    display: flex;
+    padding: 3%;
+}
+.card-img{
+    height: 100px;
+}
+.div-img{
+    margin-left: 5%;
+}
+.video-sec{
+    display: flex;
+    padding: 3%;
+ 
+   
+}
